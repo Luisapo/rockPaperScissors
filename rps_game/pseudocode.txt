@@ -5,3 +5,6 @@ At random have the computer choose one of the options
 One option can be beaten by or can defeath one of the others.
 Print what the computer choose and if the player won or lost
 Once game is over ask if player want to play again
+Create a score marker. First to five wins
+Add 1 point if play or computer wins
+Create a loop until first player get to 5 wins
