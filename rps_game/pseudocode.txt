@@ -1,0 +1,7 @@
+List out available options: Rock, Paper, Scissors
+Request the option for the player and provide valid answers, if answer is not in options provide error message
+Have option be change to lowercase in case it is written capitals
+At random have the computer choose one of the options
+One option can be beaten by or can defeath one of the others.
+Print what the computer choose and if the player won or lost
+Once game is over ask if player want to play again
